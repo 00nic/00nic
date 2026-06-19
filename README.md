@@ -32,4 +32,4 @@ Plataforma completa de comercio electrónico desarrollada durante mi certificaci
 ---
 
 ### Contacto
-- Correo: nicoenzogon@gmail.com[cite: 8, 9]
+- Correo: nicoenzogon@gmail.com
